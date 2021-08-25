@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChloeGather
 - 👀 I’m interested in ...finding people
-- 🌱 I’m currently learning ...sourcing 
-- 💞️ I’m looking to collaborate on ...networking and hiring
+- 🌱 I’m currently learning ...tech sourcing 
+- 💞️ I’m looking to collaborate on ...hiring, networking and learning the world of tech
 - 📫 How to reach me ...chloe@gathertalentsolutions.com
 
 <!---
